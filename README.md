@@ -3,7 +3,7 @@
 	<br>
 </div>
 
-💻 I'm working on my blog which is coming soon...⏳
+💻 https://www.aliataf.me
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=aliataf" alt="Profile views" />
