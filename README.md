@@ -3,7 +3,7 @@
 	<br>
 </div>
 
-💻 https://www.aliataf.me
+💻 https://aliataf.com
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=aliataf" alt="Profile views" />
